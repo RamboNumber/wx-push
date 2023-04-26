@@ -1,0 +1,7 @@
+# Project exclude paths
+/target/
+/.idea
+_idea
+_mvn
+_gitignore
+mvnw*
