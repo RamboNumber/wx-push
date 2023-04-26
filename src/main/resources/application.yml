@@ -8,7 +8,7 @@ wx:
     openidList:
       - ""
 #      - ""
-
+  
 message:
   config:
     birthday1: "03-12" #生日日期
